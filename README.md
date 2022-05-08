@@ -1,5 +1,5 @@
 # Horiseon
-
+I moved my original Horiseon repo into this one because i was having trouble deploying for a while. This assignment was done in 3 sessions over 8 days, not in one session 8 days apart as the commits suggest in this repo.
 
 ##Made with love by Ben:)
 
